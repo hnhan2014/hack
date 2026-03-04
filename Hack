@@ -1,4 +1,3 @@
--- this script created at https://lambloxfruitscript.vercel.app/
 getgenv().ScriptTitle = "XaHoiTrangGaming"
 getgenv().ScriptSubTitle = "XaHoiTrangGaming"
 getgenv().ScriptImage = "https://i.ibb.co/tpwz7g9S/channels4-profile.jpg"
