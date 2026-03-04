@@ -1,0 +1,7 @@
+-- this script created at https://lambloxfruitscript.vercel.app/
+getgenv().ScriptTitle = "XaHoiTrangGaming"
+getgenv().ScriptSubTitle = "XaHoiTrangGaming"
+getgenv().ScriptImage = "https://i.ibb.co/tpwz7g9S/channels4-profile.jpg"
+getgenv().ScriptAuthorName = "XaHoiTrangGaming"
+getgenv().ScriptAuthorSubTitle = "Tên acc roblox: XaHoiTrangGaming"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
